@@ -38,7 +38,7 @@ Os programas podem ser alterados e reenviados ao professor, caso restem dúvidas
 
 A avaliação será realizada no final do semestre. Para isso, cada aluno deverá entregar a versão final de um subconjunto dos trabalhos desenvolvidos (a ser definido), juntamente com uma auto-avaliação descrevendo o seu desenvolvimento durante o semestre, contendo uma sugestão de nota.
 
-Para que não alcançar a nota suficiente (7), haverá uma prova escrita de recuperação (chamada exame).
+Para quem não alcançar a nota suficiente (7), haverá uma prova escrita de recuperação (chamada exame).
 
 Não deixem dúvidas acumularem.
 Quanto mais cedo conseguirmos nos comunicar para apontar problemas, expor sugestões, melhores vão ser nossas chances de sucesso.
