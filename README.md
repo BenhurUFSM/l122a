@@ -97,7 +97,7 @@ Ajude o robozinho a iluminar o mundo (ajuda no desenvolvimento de lógica de pro
 
 Ajude o passarinho a detonar o porco (semelhante ao anterior) [code.org](http://studio.code.org/hoc/1)
 
-O PET oferece tópicos de apoio a disciplinas iniciais.
+Os grupos PET geralmente oferecem tópicos de apoio a disciplinas iniciais.
 
 ## Avaliações etc
 
