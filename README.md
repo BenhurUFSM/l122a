@@ -80,6 +80,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
+|    E1 | trazer dúvidas para a aula de 14abr | ver final do texto da introdução
 
 ## Ementa
 
