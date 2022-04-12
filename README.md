@@ -49,7 +49,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
 | ---: | :----: | :--------
-|    1 |  12abr | introdução
+|    1 |  12abr | [introdução](Assuntos/01.md)
 
 <!--
 |    N |   data | assunto
