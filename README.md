@@ -50,7 +50,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    N |   data | assunto
 | ---: | :----: | :--------
 |    1 |  12abr | [introdução](Assuntos/01.md)
-|    1 |  14abr | [primeiro programa C](Assuntos/02.md)
+|    2 |  14abr | [primeiro programa C](Assuntos/02.md)
 
 <!--
 |    N |   data | assunto
