@@ -51,6 +51,7 @@ Os assuntos vistos em aula serão listados aqui.
 | ---: | :----: | :--------
 |    1 |  12abr | [introdução](Assuntos/01.md)
 |    2 |  14abr | [primeiro programa C](Assuntos/02.md)
+|    3 |  19abr | [representação de números, tipos de dados numéricos](Assuntos/03.md)
 
 <!--
 |    N |   data | assunto
