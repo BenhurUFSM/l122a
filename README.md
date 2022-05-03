@@ -54,6 +54,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    3 |  19abr | [representação de números, tipos de dados numéricos](Assuntos/03.md)
 |    4 |  26abr | [variáveis, entrada de dados](Assuntos/04.md)
 |    5 |  28abr | [funções](Assuntos/05.md)
+|    6 |   3mai | [funções, cont](Assuntos/06.md)
 
 <!--
 |    N |   data | assunto
@@ -86,6 +87,7 @@ Os assuntos vistos em aula serão listados aqui.
 | ----: | -------: | :-----------
 |    E1 | trazer dúvidas para a aula de 14abr | ver final do texto da introdução
 |    E2 | trazer dúvidas para a aula de 19abr | ver final do texto da 2ª aula
+|    E3 | trazer dúvidas para a aula de 5mai  | triângulos (ver 6a aula)
 
 ## Ementa
 
