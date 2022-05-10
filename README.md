@@ -89,7 +89,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    E1 | trazer dúvidas para a aula de 14abr | ver final do texto da introdução
 |    E2 | trazer dúvidas para a aula de 19abr | ver final do texto da 2ª aula
 |    E3 | trazer dúvidas para a aula de 5mai  | triângulos (ver 6a aula)
-|    T1 |    11mai | [triângulos](Assuntos/t1.md)
+|    T1 |    ~11mai~12mai | [triângulos](Assuntos/t1.md)
 
 ## Ementa
 
