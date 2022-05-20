@@ -57,8 +57,8 @@ Os assuntos vistos em aula serão listados aqui.
 |    6 |   3mai | [funções, cont](Assuntos/06.md)
 |    7 |   5mai | [seleção (comando *if*)](Assuntos/07.md)
 |    8 |  10mai | [repetição (comando *while*)](Assuntos/08.md)
-|    9 |  12mai | repetição (comandos *for*, *do..while*)
-|   10 |  19mai | [exercícios de repetição](Assuntos/10.md]
+|    9 |  12mai | [repetição (comandos *for*, *do..while*)](Assuntos/09.md)
+|   10 |  19mai | [exercícios de repetição](Assuntos/10.md)
 
 <!--
 |    N |   data | assunto
