@@ -60,7 +60,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    9 |  12mai | [repetição (comandos *for*, *do..while*)](Assuntos/09.md)
 |   10 |  19mai | [exercícios de repetição](Assuntos/10.md)
 |   11 |  24mai | exercícios
-|   12 |  26mai | [switch, passagem de parâmetros por referência](Assuntos/11.md)
+|   12 |  26mai | [switch, passagem de parâmetros por referência](Assuntos/12.md)
 
 <!--
 |    N |   data | assunto
