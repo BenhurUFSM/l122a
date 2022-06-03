@@ -62,6 +62,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   11 |  24mai | exercícios
 |   12 |  26mai | [switch, passagem de parâmetros por referência](Assuntos/12.md)
 |   13 |  31mai | [Exercícios sobre repetição usando primos](Assuntos/13.md)
+|   14 |   2jun | [Resolução](Assuntos/13.md) dos exercícios da aula anterior, [Vetores](Assuntos/14.md)
 
 <!--
 |    N |   data | assunto
