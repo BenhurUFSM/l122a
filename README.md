@@ -5,7 +5,8 @@ turmas SI2 e CC2, primeiro semestre 2022\
 professor: Benhur Stein 
 ([benhur+l122a@inf.ufsm.br](mailto:benhur%2bl122a@inf.ufsm.br))\
 terças e quintas, 14h30\
-sala 334, prédio 7 (principal do CT)
+sala 334, prédio 7 (principal do CT)\
+aluno monitor: Daniel De Vargas ([ddvargas@inf.ufsm.br](mailto:ddvargas@inf.ufsm.br), discord:daniel_vargas#7024)
 
 ## Desenvolvimento da disciplina
 
