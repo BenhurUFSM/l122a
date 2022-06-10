@@ -65,6 +65,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   13 |  31mai | [Exercícios sobre repetição usando primos](Assuntos/13.md)
 |   14 |   2jun | [Resolução](Assuntos/13.md) dos exercícios da aula anterior, [Vetores](Assuntos/14.md)
 |   15 |   7jun | Resolução de exercícios da aula passada (ordenação de vetor) [Lista de exercícios](Assuntos/15.md)
+|   16 |   9jun | [Strings](Assuntos/16.md)
 
 <!--
 |    N |   data | assunto
