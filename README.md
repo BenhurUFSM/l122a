@@ -66,6 +66,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   14 |   2jun | [Resolução](Assuntos/13.md) dos exercícios da aula anterior, [Vetores](Assuntos/14.md)
 |   15 |   7jun | Resolução de exercícios da aula passada (ordenação de vetor) [Lista de exercícios](Assuntos/15.md)
 |   16 |   9jun | [Strings](Assuntos/16.md)
+|   17 |  14jun | [Matrizes](Assuntos/17.md)
 
 <!--
 |    N |   data | assunto
@@ -100,6 +101,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    E2 | trazer dúvidas para a aula de 19abr | ver final do texto da 2ª aula
 |    E3 | trazer dúvidas para a aula de 5mai  | triângulos (ver 6a aula)
 |    T1 |    ~11mai~12mai | [triângulos](Assuntos/t1.md)
+|    T2 |      ASD | [jogo da velha](Assuntos/t2.md)
 
 ## Ementa
 
