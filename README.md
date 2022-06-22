@@ -67,6 +67,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   15 |   7jun | Resolução de exercícios da aula passada (ordenação de vetor) [Lista de exercícios](Assuntos/15.md)
 |   16 |   9jun | [Strings](Assuntos/16.md)
 |   17 |  14jun | [Matrizes](Assuntos/17.md)
+|   18 |  21jun | [Arquivos](Assuntos/18.md)
 
 <!--
 |    N |   data | assunto
