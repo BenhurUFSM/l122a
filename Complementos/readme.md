@@ -6,7 +6,7 @@ Para desenhar letras na tela gráfica, eles usam um arquivo com desenhos de letr
 
 O arquivo tela.h tem uma descrição das funções disponilizadas.
 
-Um exemplo de uso está no arquivo (exemplo.c)[exemplo.c].
+Um exemplo de uso está no arquivo [exemplo.c](exemplo.c).
 Para compilar esse programa com o compilador gcc, pode-se usar o comando:
 ```
 gcc -Wall -o exemplo exemplo.c tela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro
