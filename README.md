@@ -69,6 +69,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   17 |  14jun | [Matrizes](Assuntos/17.md)
 |   18 |  21jun | [Arquivos](Assuntos/18.md)
 |   19 |  23jun | [Exercícios sobre arquivos](Assuntos/19.md)
+|   20 |  28jun | [Registros](Assintos/20.md)
 
 <!--
 |    N |   data | assunto
