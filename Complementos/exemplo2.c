@@ -52,6 +52,20 @@ bool retangulos_intersectam(retangulo r1, retangulo r2)
   return true;
 }
 
+
+
+// implementa a funcao abaixo, que retorna true se a interseccao entre
+// o retangulo e o circulo nao for vazia
+// pega o programa em 
+//   https://github.com/BenhurUFSM/l122a/blob/main/Complementos/exemplo2.c
+bool retangulo_e_circulo_intersectam(retangulo r, circulo c)
+{
+  return false;
+}
+
+
+
+
 void desenha_circulo(circulo c, int co)
 {
   tela_circulo(c.centro.x, c.centro.y, c.raio, 2, preto, co);
@@ -66,17 +80,15 @@ int main()
 {
   tela_inicio(500, 500, "teste");
   retangulo r1 = { { 250, 250 }, { 300, 350} };
-  retangulo r2 = { { 100, 100 }, { 200, 200} };
+  circulo c1 = { { 100, 100 }, 50 };
   while (true) {
-    r2.cse.x = tela_rato_x() - 50;
-    r2.cse.y = tela_rato_y() - 50;
-    r2.cid.x = tela_rato_x() + 50;
-    r2.cid.y = tela_rato_y() + 50;
+    c1.centro.x = tela_rato_x();
+    c1.centro.y = tela_rato_y();
     desenha_retangulo(r1, verde);
-    if (retangulos_intersectam(r1, r2)) {
-      desenha_retangulo(r2, azul);
+    if (retangulo_e_circulo_intersectam(r1, c1)) {
+      desenha_circulo(c1, azul);
     } else {
-      desenha_retangulo(r2, vermelho);
+      desenha_circulo(c1, vermelho);
     }
     tela_atualiza();
   }
