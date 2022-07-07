@@ -71,6 +71,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   19 |  23jun | [Exercícios sobre arquivos](Assuntos/19.md)
 |   20 |  28jun | [Registros](Assuntos/20.md)
 |   21 |  30jun | exercícios sobre registros
+|   22 |   5jul | exercícios sobre registros
 
 <!--
 |    N |   data | assunto
