@@ -73,6 +73,8 @@ Os assuntos vistos em aula serão listados aqui.
 |   21 |  30jun | exercícios sobre registros
 |   22 |   5jul | exercícios sobre registros
 |   23 |   7jul | [Alocação dinâmica de memória](Assuntos/23.md)
+|   24 |  12jul | sobre os trabalhos
+|   25 |  14jul | sobre os trabalhos ([adicionado programa exemplo](Assuntos/25.md))
 
 <!--
 |    N |   data | assunto
