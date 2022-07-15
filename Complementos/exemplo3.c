@@ -20,6 +20,10 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
+
+// definição dos tipos de dados
+// -----------------------------
+
 // tipo de dados que define um círculo
 typedef struct {
   // coordenadas do centro do círculo e raio, em pixels
@@ -53,6 +57,48 @@ typedef struct {
 } jogo_t;
 
 
+
+// declaração das funções principais
+// ----------------------------------
+
+void inicializa_jogo(jogo_t *j);
+void desenha_tela(jogo_t *j);
+void move_circulos(jogo_t *j);
+void verifica_entradas(jogo_t *j);
+
+// A função principal
+int main(void)
+{
+  jogo_t j;
+  inicializa_jogo(&j);
+
+  // inicializa a tela gráfica
+  tela_inicio(500, 500, "exemplo");
+
+  // laço principal
+  while (!j.fim) {
+
+    // desenha a tela e faz aparecer o que foi desenhado
+    desenha_tela(&j);
+    tela_atualiza();
+
+    // atualiza a posicao dos circulos
+    move_circulos(&j);
+
+    // processa as entradas
+    verifica_entradas(&j);
+  }
+
+  // encerra a tela gráfica
+  tela_fim();
+
+  return 0;
+}
+
+
+// funções auxiliares
+// -------------------
+
 // abandona o programa
 void badabum(char *msg)
 {
@@ -65,6 +111,10 @@ int aleat_entre(int m, int M)
 {
   return rand()%(M-m+1)+m;
 }
+
+
+// inicialização
+// --------------
 
 // inicializa a estrutura do jogo
 void inicializa_jogo(jogo_t *j)
@@ -113,6 +163,11 @@ void inicializa_jogo(jogo_t *j)
   j->fim = false;
 }
 
+
+
+// movimentação (passagem do tempo)
+// ---------------------------------
+
 // movimenta o i-ésimo círculo
 void move_circulo(jogo_t *j, int i)
 {
@@ -136,6 +191,10 @@ void move_circulos(jogo_t *j)
     move_circulo(j, i);
   }
 }
+
+
+// desenho
+// --------
 
 // desenha um circulo
 void desenha_circulo(circulo_t c)
@@ -162,6 +221,12 @@ void desenha_tela(jogo_t *j)
   // desenha um círculo na posição do mouse
   tela_circulo(tela_rato_x(), tela_rato_y(), 7, 1.5, branco, j->cor);
 }
+
+
+
+// processamento das entradas
+// ---------------------------
+
 
 // diz se o ponto está dentro do círculo
 bool ponto_no_circulo(float x, float y, circulo_t c)
@@ -211,33 +276,3 @@ void verifica_entradas(jogo_t *j)
     return;
   }
 }
-
-// A função principal
-int main(void)
-{
-  jogo_t j;
-  inicializa_jogo(&j);
-
-  // inicializa a tela gráfica
-  tela_inicio(500, 500, "exemplo");
-
-  // laço principal
-  while (!j.fim) {
-
-    // desenha a tela e faz aparecer o que foi desenhado
-    desenha_tela(&j);
-    tela_atualiza();
-
-    // atualiza a posicao dos circulos
-    move_circulos(&j);
-
-    // processa as entradas
-    verifica_entradas(&j);
-  }
-
-  // encerra a tela gráfica
-  tela_fim();
-
-  return 0;
-}
-
