@@ -48,6 +48,8 @@ typedef struct {
   float max_y;
   // cor selecionada
   int cor;
+  // true se o programa deve terminar
+  bool fim;
 } jogo_t;
 
 
@@ -107,6 +109,8 @@ void inicializa_jogo(jogo_t *j)
 
   // inicializa a cor selecionada
   j->cor = preto;
+  // o programa ainda nao termimou
+  j->fim = false;
 }
 
 // movimenta o i-ésimo círculo
@@ -181,8 +185,14 @@ int acha_circulo_no_ponto(int n, circulo_t v[n], float x, float y)
   return -1;
 }
 
-void verifica_clique(jogo_t *j)
+void verifica_entradas(jogo_t *j)
 {
+  // sinaliza o fim do programa se algo foi digitado no teclado
+  if (tela_tecla() != '\0') {
+    j->fim = true;
+  }
+
+  // processa clique do mouse
   if (!tela_rato_clicado()) return;
   float x = tela_rato_x_clique();
   float y = tela_rato_y_clique();
@@ -212,7 +222,7 @@ int main(void)
   tela_inicio(500, 500, "exemplo");
 
   // laço principal
-  while (true) {
+  while (!j.fim) {
 
     // desenha a tela e faz aparecer o que foi desenhado
     desenha_tela(&j);
@@ -222,12 +232,7 @@ int main(void)
     move_circulos(&j);
 
     // processa as entradas
-    verifica_clique(&j);
-
-    // sai do laço se algo foi digitado no teclado
-    if (tela_tecla() != '\0') {
-      break;
-    }
+    verifica_entradas(&j);
   }
 
   // encerra a tela gráfica
