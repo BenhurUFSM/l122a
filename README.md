@@ -75,6 +75,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   23 |   7jul | [Alocação dinâmica de memória](Assuntos/23.md)
 |   24 |  12jul | sobre os trabalhos
 |   25 |  14jul | sobre os trabalhos ([adicionado programa exemplo](Assuntos/25.md))
+|   26 |  19jul | trabalhos (foram adicionados os arquivos de palavras)
 
 <!--
 |    N |   data | assunto
@@ -98,7 +99,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   17 |  20jul | [registros](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/17.md)
 |   18 |  22jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/18.md)
 |   19 |  27jul | [exercícios](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/18.md)
-|   20 |  29jul | [alocação dinâmica de memória](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/20.md)
+|   20 |  29jul | [alocação dinâmica de memória](https://github.com/BenhurUFSM/l121a/blob/main/Assuntos/20.md
 -->
 
 ## Exercícios, trabalhos, provas
