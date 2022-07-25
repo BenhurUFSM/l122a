@@ -1,5 +1,7 @@
 # l122a - Laboratório I de Programação
 
+# Não tem aula na semana 25-29 jul
+
 ELC1065 DLSC/CT/UFSM\
 turmas SI2 e CC2, primeiro semestre 2022\
 professor: Benhur Stein 
@@ -7,8 +9,6 @@ professor: Benhur Stein
 terças e quintas, 14h30\
 sala 334, prédio 7 (principal do CT)\
 aluno monitor: Daniel de Vargas ([ddvargas@inf.ufsm.br](mailto:ddvargas@inf.ufsm.br), discord:daniel_vargas#7024)
-
-# Não tem aula na semana 25-29 jul
 
 ## Desenvolvimento da disciplina
 
