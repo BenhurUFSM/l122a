@@ -8,6 +8,8 @@ terças e quintas, 14h30\
 sala 334, prédio 7 (principal do CT)\
 aluno monitor: Daniel de Vargas ([ddvargas@inf.ufsm.br](mailto:ddvargas@inf.ufsm.br), discord:daniel_vargas#7024)
 
+# Não tem aula na semana 25-29 jul
+
 ## Desenvolvimento da disciplina
 
 Os canais de comunicação entre o professor e os alunos são as aulas presenciais, esta página (<https://github.com/BenhurUFSM/l122a>), e-mail (ver acima). Caso queira conversar fora desses canais, manda um mail que marcamos.
@@ -76,6 +78,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   24 |  12jul | sobre os trabalhos
 |   25 |  14jul | sobre os trabalhos ([adicionado programa exemplo](Assuntos/25.md))
 |   26 |  19jul | trabalhos (foram adicionados os arquivos de palavras)
+|   27 |  21jul | trabalhos
 
 <!--
 |    N |   data | assunto
