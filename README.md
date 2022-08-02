@@ -115,7 +115,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T3 |      ASD | [mata-palavras](Assuntos/t3.md)
 |     F | 15ago, 12h | [entrega final](Assuntos/final.md)
 | apresentações | 16 e 18ago |
-| exame | 23ago    |
+| exame | 25ago    |
 
 ## Ementa
 
