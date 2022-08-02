@@ -1,7 +1,5 @@
 # l122a - Laboratório I de Programação
 
-# Não tem aula na semana 25-29 jul
-
 ELC1065 DLSC/CT/UFSM\
 turmas SI2 e CC2, primeiro semestre 2022\
 professor: Benhur Stein 
@@ -115,6 +113,9 @@ Os assuntos vistos em aula serão listados aqui.
 |    T1 |    ~11mai~12mai | [triângulos](Assuntos/t1.md)
 |    T2 |      ASD | [jogo da velha](Assuntos/t2.md) (alterado com a pt3)
 |    T3 |      ASD | [mata-palavras](Assuntos/t3.md) (descrição incompleta)
+|     F | 15ago, 12h | [entrega final](assuntos/final.md)
+| apresentações | 16 e 18ago |
+| exame | 23ago    |
 
 ## Ementa
 
