@@ -6,10 +6,10 @@ Devem ser entregues:
 - a versão final dos trabalhos T1, T2 e T3
 - um texto com a auto-avaliação do aluno.
 
-Os arquivos que correspondem a entrega devem ser anexados a um e-mail endereçado ao professor, com o assunto "final-l1-fulano", com "fulano" substituido pelo login do aluno na inf.
+Os arquivos que correspondem à entrega devem ser anexados a um e-mail endereçado ao professor, com o assunto "final-l1-fulano", com "fulano" substituido pelo login do aluno na inf.
 Cada arquivo contendo código C deve iniciar com um comentário contendo o nome do aluno.
 
-A auto-avaliação deve conter uma avaliação (0 a 10) sobre o desenvolvimento do aluno durante a disciplina e outra (0 a 10 também) sobre o quanto o aluno considera que assimilou do conteúdo da disciplina. Deve ter um texto justificando esses números.
+A auto-avaliação deve conter uma avaliação (0 a 10) sobre o desenvolvimento (o quanto evoluiu no conteúdo) do aluno durante a disciplina e outra (0 a 10 também) sobre o quanto o aluno considera que domina do conteúdo da disciplina. Deve ter um (pequeno) texto justificando esses números.
 Pode também conter avaliação sobre como a disciplina foi conduzida pelo professor, sugestões, e o que mais o aluno considerar pertinente.
 
 Para facilitar na quantificação do segundo número, considere como está o seu conhecimento na linguagem C nos assuntos abaixo (coloquei 10 itens, pontue cada um entre 0 e 1 e some):
@@ -24,5 +24,6 @@ Para facilitar na quantificação do segundo número, considere como está o seu
 - arquivos
 - alocação dinâmica de memória
 
-Coloque também no email uma preferência pelo dia da entrevista individual, se 16 ou 18 de agosto.
+Além da entrega, o aluno deve comparecer a uma entrevista individual com o professor (uma rápida conversa sobre o conteúdo da disciplina e os trabalhos), no horário da aula, na sala de aula (334), no dia 16 ou 18 de agosto.
+Caso tenha preferência pelo dia (ou queira combinar outro horário), coloque essa preferência no mail.
 Os horários para a entrevista serão alocados por ordem de entrega. Você receberá um mail com o seu horário, em que deve comparecer na sala de aula (334).
