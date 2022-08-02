@@ -113,7 +113,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T1 |    ~11mai~12mai | [triângulos](Assuntos/t1.md)
 |    T2 |      ASD | [jogo da velha](Assuntos/t2.md) (alterado com a pt3)
 |    T3 |      ASD | [mata-palavras](Assuntos/t3.md)
-|     F | 15ago, 12h | [entrega final](assuntos/final.md)
+|     F | 15ago, 12h | [entrega final](Assuntos/final.md)
 | apresentações | 16 e 18ago |
 | exame | 23ago    |
 
