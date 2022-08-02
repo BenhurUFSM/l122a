@@ -13,16 +13,16 @@ A auto-avaliação deve conter uma avaliação (0 a 10) sobre o desenvolvimento 
 Pode também conter avaliação sobre como a disciplina foi conduzida pelo professor, sugestões, e o que mais o aluno considerar pertinente.
 
 Para facilitar na quantificação do segundo número, considere como está o seu conhecimento na linguagem C nos assuntos abaixo (coloquei 10 itens, pontue cada um entre 0 e 1 e some):
-- tipos básicos de dados (char, int, bool, float, etc)
-- variáveis e entrada e saída no terminal (scanf, printf)
-- seleção (if, switch)
-- laços (for, while, do-while)
-- funções
-- passagem de parâmetros por referência
-- vetores e strings
-- registros
-- arquivos
-- alocação dinâmica de memória
+1. tipos básicos de dados (char, int, bool, float, etc)
+1. variáveis
+1. entrada e saída no terminal (scanf, printf)
+1. seleção (if, switch)
+1. laços (for, while, do-while)
+1. funções (modularização, passagem de parâmetros por valor e referência)
+1. vetores e strings
+1. registros
+1. arquivos
+1. alocação dinâmica de memória
 
 Além da entrega, o aluno deve comparecer a uma entrevista individual com o professor (uma rápida conversa sobre o conteúdo da disciplina e os trabalhos), no horário da aula, na sala de aula (334), no dia 16 ou 18 de agosto.
 Caso tenha preferência pelo dia (ou queira combinar outro horário), coloque essa preferência no mail.
