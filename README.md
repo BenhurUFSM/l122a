@@ -1,5 +1,11 @@
 # l122a - Laboratório I de Programação
 
+* * *
+# Não tem aula presencial dia 4ago
+
+O professor está adoentecido; dúvidas etc continuam podendo ser enviadas por mail.
+* * *
+
 ELC1065 DLSC/CT/UFSM\
 turmas SI2 e CC2, primeiro semestre 2022\
 professor: Benhur Stein 
