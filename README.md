@@ -1,9 +1,36 @@
 # l122a - Laboratório I de Programação
 
 * * *
-# Não tem aula presencial dia 4ago
+# Apresentações finais
 
-O professor está adoentecido; dúvidas etc continuam podendo ser enviadas por mail.
+Dias 16 e 18 ago, sala 334, hora da aula (ou à partir das 14h)
+
+Apresentações individuais, em princípio na ordem abaixo, aprox 10 a 15mn cada.
+```
+TERÇA
+jvrates
+jvandrade
+agrocha
+ahjacobs
+ebtiggemann
+mfquadros
+mlpillon
+gpcosta
+fdbecker
+
+QUINTA
+derodrigues
+rdcecchin
+rtgatto
+aarohr
+abzanetti
+rsbecker
+glcamargo
+rdsoares
+cmrocha
+fdjunior
+```
+
 * * *
 
 ELC1065 DLSC/CT/UFSM\
