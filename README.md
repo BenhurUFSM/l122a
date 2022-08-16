@@ -5,7 +5,7 @@
 
 Dias 16 e 18 ago, sala 334, hora da aula (ou à partir das 14h)
 
-Apresentações individuais, em princípio na ordem abaixo, aprox 10 a 15mn cada.
+Apresentações individuais, em princípio na ordem abaixo, 10~15mn cada.
 ```
 TERÇA
 jvrates
